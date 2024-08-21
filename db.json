@@ -8,16 +8,14 @@
                 "userId": "abcde1@abcde.com", 
                 "userName": "日本 太郎", 
                 "userNameKana": "にほん たろう", 
-                "roleName": "システム管理者", 
-                "affiliationOrganizations": ["TNSC本社"]
+                "roleName": "システム管理者"
             },
             {
                 "userPk": 2, 
                 "userId": "abcde2@abcde.com", 
                 "userName": "日本第二 太郎号", 
                 "userNameKana": "にほんだいに たろうごう", 
-                "roleName": "システム管理者", 
-                "affiliationOrganizations": ["TNSC本社"]
+                "roleName": "システム管理者"
             }
-        ],
+        ]
     }
