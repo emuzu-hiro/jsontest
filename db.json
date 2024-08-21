@@ -1,4 +1,9 @@
-"searchResult": [
+    "resultCode": 200,
+    "response": {
+        "resultCount": 58,
+        "limit" : 20,
+        "offset" : 0,
+        "searchResult": [
             {
                 "userPk": 1, 
                 "userId": "abcde1@abcde.com", 
@@ -20,4 +25,5 @@
                 ]
             },
                         ：
-        ]
+        ],
+    }
