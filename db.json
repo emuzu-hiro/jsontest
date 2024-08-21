@@ -1,6 +1,4 @@
-{
-    "resultCode": 200,
-    "response": {
+"response": {
         "resultCount": 58,
         "limit" : 20,
         "offset" : 0,
@@ -28,4 +26,3 @@
                         ：
         ],
     }
-}
